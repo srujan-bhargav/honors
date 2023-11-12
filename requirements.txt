@@ -3,3 +3,6 @@ Django==3.2.22
 sqlparse==0.4.4
 tzdata==2023.3
 gunicorn==19.7.1
+django-widget-tweaks==1.4.8
+xhtml2pdf
+gunicorn==19.7.1
